@@ -8,7 +8,7 @@ _Pulse aims to give a visual interpretation of when the next resources tick happ
 
 Pulse is a simple addon that tracks the energy-regen tickrate and the current amount of energy. The energybar will showup once the player spent some energy.
 
-![](https://raw.githubusercontent.com/RagedUnicorn/wow-classic-pulse/master/docs/pulse_example.jpg)
+![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/pulse_example.jpg)
 
 ## Issues
 
@@ -27,10 +27,6 @@ Pulse is a simple addon that tracks the energy-regen tickrate and the current am
 #### The Addon is not showing up in WoW. What can I do?
 
 Make sure to recheck the installation part of this Readme and check that the Addon is placed inside `[WoW-installation-directory]\Interface\AddOns` and is correctly named as `Pulse`.
-
-#### The Addon is spamming my chat with messages. Why is it doing this?
-
-Chances are you downloaded a development version of the addon. If you directly download the master branch you will get a development version that is printing a lot of debug message to the chat. Make sure that you download a release version of the addon here - [Pulse-Releases](https://github.com/RagedUnicorn/wow-classic-pulse/releases)
 
 #### I get a red error (Lua Error) on my screen. What is this?
 
