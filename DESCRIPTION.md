@@ -22,7 +22,7 @@ Pulse can be configured through the in-game interface options. Access the config
 1. Opening the game menu (ESC key)
 2. Selecting "Options"
 3. Navigating to "AddOns"
-4. Finding "Pulse Options" in the list~~~~
+4. Finding "Pulse Options" in the list
 
 Alternatively, you can use the slash command: `/pulse opt` or `/rgp opt`
 
