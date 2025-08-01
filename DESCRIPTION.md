@@ -49,14 +49,6 @@ Alternatively, you can use the slash command: `/pulse opt` or `/rgp opt`
 
 ## FAQ
 
-#### The Addon is not showing up in WoW. What can I do?
-
-Make sure to recheck the installation part of this Readme and check that the Addon is placed inside `[WoW-installation-directory]\Interface\AddOns` and is correctly named as `Pulse`.
-
-#### The Addon is spamming my chat with messages. Why is it doing this?
-
-Chances are you downloaded a development version of the addon. If you directly download the master branch you will get a development version that is printing a lot of debug message to the chat. Make sure that you download a release version of the addon here - [Pulse-Releases](https://github.com/RagedUnicorn/wow-classic-pulse/releases)
-
 #### I get a red error (Lua Error) on my screen. What is this?
 
 This is what we call a Lua error, and it usually happens because of an oversight or error by the developer (in this case me). Take a screenshot off the error and create a GitHub Issue with it, and I will see if I can resolve it. It also helps if you can add any additional information of what you were doing at the time and what other addons you have active. Additionally, if you are able to reproduce the error make sure to check if it still happens if you disable all others addons.
