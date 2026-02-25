@@ -37,15 +37,11 @@ Alternatively, you can use the slash command: `/pulse opt` or `/rgp opt`
 
 ## Issues
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues_classic.svg)](https://github.com/RagedUnicorn/wow-classic-pulse/issues) **Classic**
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues_bcc.svg)](https://github.com/RagedUnicorn/wow-bcc-pulse/issues) **Burning Crusade Classic**
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pulse/issues)
 
 ## Source
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/source_classic.svg)](https://github.com/RagedUnicorn/wow-classic-pulse) **Classic**
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/source_bcc.svg)](https://github.com/RagedUnicorn/wow-bcc-pulse) **Burning Crusade Classic**
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/source.svg)](https://github.com/RagedUnicorn/wow-classic-pulse)
 
 ## FAQ
 
