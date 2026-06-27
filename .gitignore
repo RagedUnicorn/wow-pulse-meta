@@ -32,3 +32,6 @@ Thumbs.db
 target/
 .idea/
 *.iml
+
+# local-only gallery source screenshots (not committed)
+assets/gallery/raw/
