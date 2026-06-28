@@ -1,12 +1,12 @@
 # Gallery Images
 
-Static overview image for the Pulse pages on
+Static overview images for the Pulse pages on
 [wago.io](https://addons.wago.io/addons/pulse/gallery) and
-[CurseForge](https://www.curseforge.com/wow/addons/pulse). It gives visitors a quick
-visual summary of Pulse's energy bar straight from the gallery/screenshot strip - the
-embedded screenshot and full context live in the project's main `README.md`. Pulse is a
-single-feature addon, so one image is enough. This rarely needs updating; this folder is
-the source of truth when it does.
+[CurseForge](https://www.curseforge.com/wow/addons/pulse). They give visitors a quick
+visual summary of Pulse's energy bar and configuration straight from the
+gallery/screenshot strip - the embedded screenshots and full context live in the
+project's main `README.md`. This rarely needs updating; this folder is the source of
+truth when it does.
 
 **Editing it:** start from a fresh screenshot (any size) and normalize it to a 16:9
 canvas under 2 MB. The current image was produced with ffmpeg from
@@ -41,3 +41,15 @@ Pulse visualizes the next energy tick and your current energy - the bar appears 
 ```
 
 **File:** `pulse_energy_bar.png`
+
+---
+
+## 2. Configuration Profiles
+
+![](pulse_profiles.png)
+
+```
+Save your Pulse setup as named profiles and switch between them, or share a profile with another character or player using the export/import string.
+```
+
+**File:** `pulse_profiles.png`
