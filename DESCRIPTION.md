@@ -2,12 +2,16 @@
 &nbsp;  
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/ragedunicorn_wow_banner.png)
 &nbsp;  
-_Pulse aims to give a visual interpretation of when the next resources tick happens. This can be used by multiple classes but the most prominent one might be rogue and his energy regeneration._
+_Pulse aims to give a visual interpretation of when the next resources tick happens. This can be used by multiple classes, but the most prominent one might be rogue and his energy regeneration._
 
 ## Providers
 
 [![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pulse)
 [![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pulse)
+
+## Source/Issues
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pulse/issues)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/source.svg)](https://github.com/RagedUnicorn/wow-classic-pulse)
 
 ## What is Pulse?
 
