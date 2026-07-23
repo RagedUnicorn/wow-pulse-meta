@@ -44,7 +44,19 @@ Pulse visualizes the next energy tick and your current energy - the bar appears 
 
 ---
 
-## 2. Configuration Profiles
+## 2. Options
+
+![](pulse_options.png)
+
+```
+Resize the energy bar to fit your UI with the width and height sliders, then lock it in place once you have positioned it.
+```
+
+**File:** `pulse_options.png`
+
+---
+
+## 3. Configuration Profiles
 
 ![](pulse_profiles.png)
 

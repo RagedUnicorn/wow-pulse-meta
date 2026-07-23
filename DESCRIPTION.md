@@ -39,6 +39,7 @@ Alternatively, you can use the slash command: `/pulse opt` or `/rgp opt`
 - **Energy Bar Width**: Adjust the width of the energy bar to fit your UI layout. Use the slider to increase or decrease the horizontal size.
 - **Energy Bar Height**: Adjust the height of the energy bar. Use the slider to increase or decrease the vertical size.
 
+![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/pulse_options_configuration.png)
 
 ### Profiles
 
