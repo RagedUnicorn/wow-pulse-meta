@@ -1,0 +1,28 @@
+# Copy to .github/workflows/description-links.yml in each RagedUnicorn *-meta repo.
+# Canonical source: wow-media-capture skill, reference/meta-repo/.
+# Runs check-description-links.sh so a renamed/removed asset that a DESCRIPTION
+# still embeds fails the build instead of silently breaking the live store pages.
+name: description-links
+
+on:
+  push:
+    paths:
+      - "DESCRIPTION*.md"
+      - "assets/**"
+      - "check-description-links.sh"
+      - ".github/workflows/description-links.yml"
+  pull_request:
+    paths:
+      - "DESCRIPTION*.md"
+      - "assets/**"
+      - "check-description-links.sh"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Verify DESCRIPTION asset links
+        run: bash check-description-links.sh
