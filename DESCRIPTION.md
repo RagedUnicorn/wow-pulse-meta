@@ -6,8 +6,8 @@ _Pulse aims to give a visual interpretation of when the next resources tick happ
 
 ## Providers
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pulse)
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pulse)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pulse-rg)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pulse-rg)
 
 ## Source/Issues
 [![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pulse/issues)

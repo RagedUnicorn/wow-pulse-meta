@@ -1,8 +1,8 @@
 # Gallery Images
 
 Static overview images for the Pulse pages on
-[wago.io](https://addons.wago.io/addons/pulse/gallery) and
-[CurseForge](https://www.curseforge.com/wow/addons/pulse). They give visitors a quick
+[wago.io](https://addons.wago.io/addons/pulse-rg/gallery) and
+[CurseForge](https://www.curseforge.com/wow/addons/pulse-rg). They give visitors a quick
 visual summary of Pulse's energy bar and configuration straight from the
 gallery/screenshot strip - the embedded screenshots and full context live in the
 project's main `README.md`. This rarely needs updating; this folder is the source of
