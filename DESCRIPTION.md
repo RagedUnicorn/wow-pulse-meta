@@ -2,7 +2,7 @@
 &nbsp;  
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/ragedunicorn_wow_banner.png)
 &nbsp;  
-_Pulse aims to give a visual interpretation of when the next resources tick happens. This can be used by multiple classes, but the most prominent one might be rogue and his energy regeneration._
+_Pulse gives a visual interpretation of when the player's next energy tick happens, letting energy users such as rogues time their actions around the 2-second energy-regen tick._
 
 ## Providers
 
@@ -15,7 +15,9 @@ _Pulse aims to give a visual interpretation of when the next resources tick happ
 
 ## What is Pulse?
 
-Pulse is a simple addon that tracks the energy-regen tickrate and the current amount of energy. The energybar will show up once the player spent some energy.
+Pulse is a simple addon that tracks the energy-regen tickrate and the current amount of energy. The energybar will show once the player spent some energy.
+
+The bar keeps sweeping even while energy is full. This is intentional and one of the main use cases of the addon: it lets you time an attack right before the next energy tick. A rogue sitting at full energy in stealth, for example, can watch the bar and open just before a tick, so the first energy regenerates shortly after the opener.
 
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/pulse_example.png)
 
@@ -32,9 +34,9 @@ Alternatively, you can use the slash command: `/pulse opt` or `/rgp opt`
 
 ### Placing the Energy Bar
 
-Click **Move Bar** in the options (or type `/pulse move`). Pulse closes the options window, brings the energy bar on screen and lets you drag it wherever you like – even if the bar is locked. Click **Done** when you are happy with the position and you are taken straight back to the options.
+Click **Move Bar** in the options (or type `/pulse move`). Pulse closes the options window, brings the energy bar on screen and lets you drag it wherever you like – even if the bar is locked. Click **Done** when you are happy with the position and you are taken straight back to the options. Pressing Escape also leaves positioning mode, but closes everything instead of returning to the options.
 &nbsp;  
-If **Snap to Grid** is enabled, the alignment grid is drawn while you are placing the bar and disappears again when you are done.
+This is the intended way to position the bar: the options window sits in the middle of the screen, so it would otherwise cover the very bar you are trying to place. If **Snap to Grid** is enabled, the alignment grid is drawn while you are placing the bar and disappears again when you are done.
 
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/pulse_grid_snap.png)
 
@@ -42,7 +44,7 @@ If **Snap to Grid** is enabled, the alignment grid is drawn while you are placin
 
 #### Energy Bar Positioning
 - **Lock Energy Bar**: When enabled, prevents the energy bar from being moved by dragging. When disabled, you can drag the energy bar to reposition it anywhere on your screen.
-- **Snap to Grid**: When enabled, the energy bar's top-left corner is aligned to a grid as soon as you drop it, which makes it easy to line the bar up with the rest of your UI. Disabled by default – placement stays free until you turn it on, and an already placed bar only moves the next time you drag it. The grid itself is drawn only while you are placing the bar, never during normal play.
+- **Snap to Grid**: When enabled, the energy bar's top-left corner is aligned to a grid as soon as you drop it, which makes it easy to line the bar up with the rest of your UI. Disabled by default – placement stays free until you turn it on, and an already placed bar only moves the next time you drag it. The grid itself is drawn only while you are placing the bar (see above), never during normal play.
 - **Grid Size**: The spacing of that grid in pixels. A smaller value allows finer placement, a larger value snaps in bigger steps. Only available while **Snap to Grid** is enabled.
 
 #### Energy Bar Dimensions
