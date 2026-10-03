@@ -77,14 +77,6 @@ Profiles can be shared as portable strings, making it easy to copy a setup betwe
 
 > Note: Profiles are stored per character. Use export/import to move a profile to another character.
 
-## Issues
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pulse/issues)
-
-## Source
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pulse-meta/master/assets/source.svg)](https://github.com/RagedUnicorn/wow-classic-pulse)
-
 ## FAQ
 
 #### I get a red error (Lua Error) on my screen. What is this?
